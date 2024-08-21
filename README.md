@@ -1,28 +1,25 @@
 ![Mateo Iglesias](https://github.com/user-attachments/assets/69b8314b-1f61-4120-aac6-0d42e30c3094)
 <br>
-<p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
-  I'm Yogesh I'm a final year student pursuing Bachelors's in Computer Science 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that I also love to listen music 🎵 and play games🎮. I'm currently into Full stack Web Development 🕸️ and working on python 🐍.
+<p>
+  I'm Mateo, I'm an 17 years old Argentinian student that is currently is persuing a computer ingeneer degree 🎓. I'm a passionate learner who's always determined to be the best in what i work 💯. I love to solve real-life problems and new challenges that requires my knowledge at his 100% 🚀. Apart from that I also love to make videos 🎬, take photos 📸 and play games🎮. I'm currently into Full stack Web Development 🕸️ and working on React ⚛.
 </p>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
+
+![pop-pop-cat](https://github.com/user-attachments/assets/7f09527f-47b1-44e3-8910-822a5893c369)Personal Stuffs:
 
 - 🎓 I am a **student**.
-- 💻 Major is **Computer Science and Technology**.
-- 🌱 I'm currently learning **Web development and Python**. 
+- 💻 My carrer is **Computer ingeneer**.
+- 🌱 I'm currently learning **React, NodeJs and NextJs**. 
 - 🤔 My hobbies are **listen music 🎵 and play games🎮**.
 - 📝 Sometimes I write articles on **[My website](https://vibrantfix.github.io/blog/)**
-- 💬 If you have any questions, **just ask me**.
-- btw I use Arch [<img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo" />](https://archlinux.org/)
+- 💬 If you have any questions, **just ask me trough my social media 👇🏻**.
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
 <a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/discord-round.svg" alt="discord" height="30" width="30" /></a>
-<a href="https://telegram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/telegram.svg" alt="telegram" height="30" width="30" /></a>
-<a href="https://vibrantfix.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/logo.jpg" alt="website" height="30" width="30" /></a>
 </p>
 <br>
 
@@ -35,14 +32,9 @@
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
 <p>
-<a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
-<a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
-<a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
@@ -89,25 +81,6 @@
 <a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
 </p>
 
-<h2>📊 Github Stats and Activity</h2>
-
-<h3>🔥 Streak Stats</h3>
-
-<p>
-<a href="#">
-<img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=vibrantfix&theme=dracula&hide_border=true&background=000000EE"/>
-</a>
-</p>
-
-<h3>💻 GitHub Profile Stats</h3>
-
-<p>
-<a href="#"><img alt="Yogesh's Github Stats" src="https://github-readme-stats-vibrantfix.vercel.app/api?username=vibrantfix&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
-<a href="#"><img alt="Yogesh's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=vibrantfix&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
 <!--START_SECTION:waka-->
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
@@ -150,6 +123,5 @@ Linux                    5 hrs 57 mins       ███████████�
   </a>
 
 -----
-Credits: [Yogesh](https://github.com/vibrantfix)
 
 Last Edited on: 13/04/2023
