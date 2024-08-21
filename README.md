@@ -1,5 +1,5 @@
 <h1 align = "center">
-![Mateo Iglesias](https://github.com/user-attachments/assets/1db5a7c3-4cc4-43ee-8a59-8b19911a6056)
+https://github.com/user-attachments/assets/1db5a7c3-4cc4-43ee-8a59-8b19911a6056
 
 </h1>
 <br>
