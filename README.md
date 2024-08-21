@@ -1,5 +1,6 @@
 <h1 align = "center">
-![Mateo Iglesias](https://github.com/user-attachments/assets/276053a4-f886-4108-8c0f-ed93ebd5d622)
+![Mateo Iglesias](https://github.com/user-attachments/assets/1db5a7c3-4cc4-43ee-8a59-8b19911a6056)
+
 </h1>
 <br>
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
