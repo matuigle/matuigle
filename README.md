@@ -6,7 +6,7 @@
 
 
 
-![pop-pop-cat](https://github.com/user-attachments/assets/7f09527f-47b1-44e3-8910-822a5893c369)Personal Stuffs:
+<img src="https://media1.tenor.com/m/0yUhwOaRcf8AAAAC/pop-pop-cat.gif" width="40"/> Personal Stuffs:
 
 - 🎓 I am a **student**.
 - 💻 My carrer is **Computer ingeneer**.
