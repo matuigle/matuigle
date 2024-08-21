@@ -1,6 +1,6 @@
 ![Mateo Iglesias](https://github.com/user-attachments/assets/69b8314b-1f61-4120-aac6-0d42e30c3094)
 <br>
-<p aling="center">
+<p aling="center" width="75">
   I'm Mateo, I'm an 17 years old Argentinian student that is currently is persuing a computer ingeneer degree 🎓. I'm a passionate learner who's always determined to be the best in what i work 💯. I love to solve real-life problems and new challenges that requires my knowledge at his 100% 🚀. Apart from that I also love to make videos 🎬, take photos 📸 and play games🎮. I'm currently into Full stack Web Development 🕸️ and working on React ⚛.
 </p>
 
