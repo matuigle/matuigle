@@ -1,7 +1,4 @@
-<h1 align = "center">
-https://github.com/user-attachments/assets/1db5a7c3-4cc4-43ee-8a59-8b19911a6056
-
-</h1>
+![Mateo Iglesias](https://github.com/user-attachments/assets/69b8314b-1f61-4120-aac6-0d42e30c3094)
 <br>
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
   I'm Yogesh I'm a final year student pursuing Bachelors's in Computer Science 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that I also love to listen music 🎵 and play games🎮. I'm currently into Full stack Web Development 🕸️ and working on python 🐍.
