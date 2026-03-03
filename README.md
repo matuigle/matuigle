@@ -18,8 +18,6 @@
 
 <div align="center">
   <a href="https://xpandup.com.ar/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
-  <img src="https://github.com/vibrantfix/vibrantfix/workflows/Waka%20Readme/badge.svg" alt="Waka Readme" />
-  <img src="https://hits.dwyl.com/vibrantfix/vibrantfix.svg?style=flat-square" alt="HitCount" />
 </div>
 
 ---
@@ -35,8 +33,8 @@
 ### 📫 How to reach me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/" target="_blank"><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="LinkedIn" height="35" width="35" /></a>
-  <a href="https://discord.com/" target="_blank"><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/discord-round.svg" alt="Discord" height="35" width="35" /></a>
+  <a href="https://www.linkedin.com/in/mateo-iglesias-melerio-a05b53323/" target="_blank"><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/linkedin.svg" alt="LinkedIn" height="35" width="35" /></a>
+  <a href="https://discord.com/users/708746987268472834" target="_blank"><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/discord-round.svg" alt="Discord" height="35" width="35" /></a>
 </p>
 
 ---
