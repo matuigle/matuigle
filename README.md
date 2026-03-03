@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-  <a href="https://vibrantfix.github.io/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://xpandup.com.ar/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
   <img src="https://github.com/vibrantfix/vibrantfix/workflows/Waka%20Readme/badge.svg" alt="Waka Readme" />
   <img src="https://hits.dwyl.com/vibrantfix/vibrantfix.svg?style=flat-square" alt="HitCount" />
 </div>
@@ -30,7 +30,7 @@
 - 💼 Co-founder of **XpandUp**, a digital agency where I handle web development and social media management for various clients.
 - 🌱 Currently learning **React, Node.js, Next.js**, and starting my journey with **Japanese** 🇯🇵.
 - 🎬 My hobbies include **videography, cinema, and music**.
-- 📝 Sometimes I write articles on **[My website](https://vibrantfix.github.io/blog/)**.
+- 📝 Sometimes I write articles on **[My website](https://xpandup.com.ar/)**.
 
 ### 📫 How to reach me:
 
