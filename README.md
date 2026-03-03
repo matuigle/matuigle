@@ -6,14 +6,14 @@
 
 <div align="center">
   <img src="https://media1.tenor.com/m/0yUhwOaRcf8AAAAC/pop-pop-cat.gif" width="40"/>
-  <h3>Hi there 👋, I'm Mateo (aka Peluca Sape)</h3>
+  <h3>Hi there 👋, I'm Mateo</h3>
   <p>
     <i>A 19-year-old Computer Engineering student and Co-Founder from Argentina 🇦🇷</i>
   </p>
 </div>
 
 <p align="center">
-  I'm a passionate learner determined to give 100% to everything I do. I love solving real-life problems through code and taking on new challenges. When I'm not studying or coding, you can find me playing Valorant or psychological horror games, watching movies, doing videography, or listening to Milo J and El Kuelgue. 🚀
+  I'm a passionate learner determined to give 100% to everything I do. I love solving real-life problems through code and taking on new challenges. When I'm not studying or coding, you can find me streaming, doing content creation, doing videography, or just expanding my business.🚀
 </p>
 
 <div align="center">
